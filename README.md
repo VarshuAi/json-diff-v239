@@ -18,7 +18,7 @@ Ensure you have the required runtime environment installed (PYTHON).
 ### Execution
 Clone the repository and run:
 ```bash
-git clone https://github.com/VARSHAN69/json-diff-v239.git
+git clone https://github.com/VarshuAi/json-diff-v239.git
 cd json-diff-v239
 ```
 Run the master script or compile the executable entry point.
