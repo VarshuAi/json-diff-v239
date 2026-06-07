@@ -38,7 +38,7 @@ version: 1.0
 type: Repository
 author: VarshuAi
 description: >
-  Highlights structural discrepancies between two JSON objects. [Variant 239 using PYTHON with Cyber_Red theme]
+  name: json-diff-v239 version: 1.0 type: Repository author: VarshuAi description: >   Highlights structural discrepancies between two JSON objects. [Variant 239 using PYTHON with Cyber_Red theme] primary_tech: Python
 primary_tech: Python
 ```
 
